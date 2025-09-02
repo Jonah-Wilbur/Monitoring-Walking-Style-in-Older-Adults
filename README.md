@@ -1,2 +1,2 @@
 # Monitoring-Walking-Style-in-Older-Adults
-A gradient boosting (XGBoost) framework for training and using a model to monitor ambulation in older adults, using a single wrist mounted IMU. Data will not be shared, this is for demonstrative purposes and code availability. 
+A gradient boosting (XGBoost) framework for training and using a model to monitor ambulation in older adults, using a single wrist mounted IMU. Data will not be shared, this is for demonstrative purposes and code availability. Activities classified include walking on flat ground, walking up vs down stairs, using different aids (simulated walker and cane), running, sedentary activities, and unlabelled household activities.
